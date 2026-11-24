@@ -1,0 +1,143 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="accelerate" />
+          <option value="aiofiles" />
+          <option value="altair" />
+          <option value="annotated-types" />
+          <option value="antialiased-cnns" />
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="beautifulsoup4" />
+          <option value="blinker" />
+          <option value="cachetools" />
+          <option value="clean-fid" />
+          <option value="click" />
+          <option value="cmake" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="diffusers" />
+          <option value="docker-pycreds" />
+          <option value="dominate" />
+          <option value="einops" />
+          <option value="eval_type_backport" />
+          <option value="exceptiongroup" />
+          <option value="fastapi" />
+          <option value="ffmpy" />
+          <option value="fonttools" />
+          <option value="ftfy" />
+          <option value="gdown" />
+          <option value="gitdb" />
+          <option value="GitPython" />
+          <option value="gradio" />
+          <option value="gradio_client" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="huggingface-hub" />
+          <option value="imageio" />
+          <option value="importlib_metadata" />
+          <option value="importlib_resources" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="kiwisolver" />
+          <option value="kornia" />
+          <option value="kornia_rs" />
+          <option value="lazy_loader" />
+          <option value="lightning-utilities" />
+          <option value="lit" />
+          <option value="lpips" />
+          <option value="markdown-it-py" />
+          <option value="matplotlib" />
+          <option value="mdurl" />
+          <option value="mkl-service" />
+          <option value="narwhals" />
+          <option value="nvidia-cublas-cu11" />
+          <option value="nvidia-cuda-cupti-cu11" />
+          <option value="nvidia-cuda-nvrtc-cu11" />
+          <option value="nvidia-cuda-runtime-cu11" />
+          <option value="nvidia-cudnn-cu11" />
+          <option value="nvidia-cufft-cu11" />
+          <option value="nvidia-curand-cu11" />
+          <option value="nvidia-cusolver-cu11" />
+          <option value="nvidia-cusparse-cu11" />
+          <option value="nvidia-nccl-cu11" />
+          <option value="nvidia-nvtx-cu11" />
+          <option value="open_clip_torch" />
+          <option value="opencv-python" />
+          <option value="orjson" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="peft" />
+          <option value="platformdirs" />
+          <option value="protobuf" />
+          <option value="psutil" />
+          <option value="pyarrow" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pydeck" />
+          <option value="pydub" />
+          <option value="Pygments" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="python-multipart" />
+          <option value="pytz" />
+          <option value="PyWavelets" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="regex" />
+          <option value="rich" />
+          <option value="rpds-py" />
+          <option value="safetensors" />
+          <option value="scikit-image" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="semantic-version" />
+          <option value="sentry-sdk" />
+          <option value="setproctitle" />
+          <option value="six" />
+          <option value="smmap" />
+          <option value="sniffio" />
+          <option value="soupsieve" />
+          <option value="starlette" />
+          <option value="streamlit" />
+          <option value="streamlit-keyup" />
+          <option value="tenacity" />
+          <option value="tifffile" />
+          <option value="timm" />
+          <option value="tokenizers" />
+          <option value="toml" />
+          <option value="torchaudio" />
+          <option value="torchdata" />
+          <option value="torchmetrics" />
+          <option value="torchvision" />
+          <option value="tornado" />
+          <option value="tqdm" />
+          <option value="transformers" />
+          <option value="triton" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="vision-aided-loss" />
+          <option value="wandb" />
+          <option value="watchdog" />
+          <option value="wcwidth" />
+          <option value="websockets" />
+          <option value="xformers" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="scipy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
